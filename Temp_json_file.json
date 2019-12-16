@@ -1,0 +1,22 @@
+{
+  "information":
+    [
+      {"Date":""},
+      {"Creatoe":"My Name"},
+      {"Last_update":""},
+      {"Desc":"This is a description about the data-set"},
+      {"Leagel":"The owner/publisher is not responsible for any missing or wrond data in the data-set"}
+    ],
+    "cars":
+    [
+     {"name":"car1 name","color":"red","plate no":"222"},
+     {"name":"car2 name","color":"green","plate no":"233"},
+     {"name":"car3 name","color":"Blue","plate no":"162"},
+     {"name":"car4 name","color":"Green","plate no":"752"},
+     {"name":"car5 name","color":"red","plate no":"178"},
+     
+    ]
+
+
+
+}
