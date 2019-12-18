@@ -1,0 +1,170 @@
+{
+  "information": 
+    [
+    {
+      "Created in": "18/12/2019",
+      "Last Update": "18/12/2019",
+      "Update Note":"More channels added",
+      "Creator": "Ali Radwani",
+      "desc":"This data-set contains at least 10 TV-Channels for  some selected countries.",
+      "Legel": "Missing and/or wrong data may exist, Using this Data-set for testing purpose only. Use this data for production under your responsibility"
+    }
+    ],
+
+  "tv_channels": [
+    {
+      "countries": [
+        {
+          "Afghanistan": [
+            {
+              "name": "RTA TV"},
+            {
+              "name": "Ariana TV"
+            },
+            {
+              "name": "Tolo TV"
+            },
+            {
+              "name": "Tolo News"
+            },
+            {
+              "name": "Tamadon TV"
+            },
+            {
+              "name": "Metra Television"
+            },
+            {
+              "name": "Shamshad TV"
+            },
+            {
+              "name": "ANAAR TV"
+            },
+            {
+              "name": "Pashto TV"
+            },
+            {
+              "name": "Zhwandon TV"
+            }
+          ]
+        },
+        {
+          " Albania": [
+            {
+              "name": "TV Klan"
+            },
+            {
+              "name": "TV Shqiptar (RTSH)"
+            },
+            {
+              "name": "Vizion Plus"
+            },
+            {
+              "name": "Klan Plus"
+            },
+            {
+              "name": "News 24"
+            },
+            {
+              "name": "13TV"
+            },
+            {
+              "name": "BBF TV"
+            },
+            {
+              "name": "ABC News (Albanian TV channel)"
+            },
+            {
+              "name": "UTV News (Albania)"
+            }
+          ]
+        },
+        
+        {
+          "Australia": [
+{"name":"ABC"},
+{"name":"CB"},
+{"name":"Seven West Media"},
+{"name":"Nine Entertainment Co"},
+{"name":"Ten Network Holdings"},
+{"name":"Aboriginal Broadcasting Australia"}
+
+]
+        },
+        
+        {
+          "Azerbaijan": [
+
+{"name":"ANS TV"},
+{"name":"CBC"},
+{"name":"Ictimai TV"},
+{"name":"Idman Azerbaijan"},
+{"name":"Lider TV"},
+{"name":"Space TV"},
+{"name":"Xazar"},
+{"name":"ANTV.WS"},
+{"name":"Azad Azerbaijan"},
+{"name":"AzTV"}
+]
+        },
+        
+        {
+          "Bahrain": [
+
+{"name":"Bahrain TV"},
+{"name":"Marhaba TV"},
+{"name":"Orbit Channel"},
+{"name":"MTV Bahrain"},
+{"name":"STAR TV "}
+]
+  },
+        {
+          "Bangladesh": [
+
+{"name":"Ananda TV"},
+{"name":"Asian TV"},
+{"name":"ATN Bangla"},
+{"name":"ATN News"},
+{"name":"Banglavision"},
+{"name":"Bangla TV"},
+{"name":"Boishakhi TV"},
+{"name":"Bijoy TV"},
+{"name":"BTV"},
+{"name":"BTV World"}
+]
+        },
+     {
+          "Barbados": [
+
+{"name":"The Beat 104"},
+{"name":"Tempo TV"},
+{"name":"Public Broadcast Service"},
+{"name":"Discover Barbados TV"},
+{"name":"Cinestream TV"},
+{"name":"Gone Viral TV"}
+]
+        },   
+        
+        {
+          "Benin": [
+
+{"name":"BB-24 (Benin Business 24)"},
+{"name":"ORTB"},
+{"name":"Canal 3 Monde"},
+{"name":"Eden TV Benin"},
+{"name":"LC2 International"},
+{"name":"Evangelique TV"},
+{"name":"La Beninoise TV"},
+{"name":"Sikka TV"},
+{"name":"TV Carrefour"},
+{"name":"La Flamme"}
+
+]
+        }
+        
+        
+        
+        
+      ]
+    }
+  ]
+}
