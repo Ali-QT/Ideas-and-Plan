@@ -12,8 +12,9 @@
     ],
 
   "tv_channels": 
+  [
     {
-      "countries": [
+      "countries": 
         {
           "Afghanistan": [
             {
@@ -164,7 +165,7 @@
         
         
         
-      ]
+      
     }
-  
+  ]
 }
