@@ -1,8 +1,14 @@
 
 
 {
+    "information":[
+	    {"Date":""},
+	    {"Last Update":"20/12/2019"},
+	    {"Creator":"Ali Radwani"},
+	    {"Desc":" .. Something about the data set"},
+	    {"Legal":" .. legal statment"}
+	   ], 
 	
-
     "animals":[
         {"name":"Aardvark", "type":"mammal"},
         {"name":"African Elephant", "type":"mammal"},
