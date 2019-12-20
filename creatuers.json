@@ -2,11 +2,11 @@
 
 {
     "information":[
-	    {"Date":""},
+	    {"Date":"15/12/2019"},
 	    {"Last Update":"20/12/2019"},
 	    {"Creator":"Ali Radwani"},
-	    {"Desc":" .. Something about the data set"},
-	    {"Legal":" .. legal statment"}
+	    {"Desc":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about Animals classified under: mammal | insect | birds | reptiles."},
+	    {"LEGAL TERM":"Anyone can use this file and the owner/creator is not responsible for any missing or wrong data that may exist in the file."}
 	   ], 
 	
     "animals":[
