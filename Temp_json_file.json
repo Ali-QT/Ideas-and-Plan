@@ -1,8 +1,12 @@
 {
   "information":
     [
-      {"Date":"18/12/2019"},{"Creatoe":"My Name"},{"Last_update":"18/12/2019"},{"Desc":"This is a description about the data-set"},
-      {"Leagel":"The owner/publisher is not responsible for any missing or wrond data in the data-set"}
+      {"Date":"18/12/2019"},
+      {"Creatoe":"My Name"},
+      {"Last_update":"18/12/2019"},
+      {"Desc":"This is a description about the data-set"},
+      {"Legal":"This data-set created for testing and training purposes only. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
+       
     ],
     "cars":
     [
