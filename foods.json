@@ -13,10 +13,17 @@
 	
 	
 	"countries":[
-		{"name":"UK","name":"USA","name":"France","name":"India","name":"Italy","name":"Kuwait","name":"Japan"}
+		{"name":"UK"},
+		{"name":"USA"},
+		{"name":"France"},{"name":"India"},
+		{"name":"Italy"},{"name":"Kuwait"},
+		{"name":"Japan"}
 		],
 	
-	"meal_type":[{"name":"Breakfast","name":"Lunch","name":"Dinner"}],
+	"meal_type":[{"name":"Breakfast"},
+		     {"name":"Lunch"},
+		     {"name":"Dinner"}
+		    ],
 	
 	
     "fruits": [
