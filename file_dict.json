@@ -1,0 +1,87 @@
+
+
+fdict={ "fext":[
+        {"ext":"jpeg"},
+         {"ext":"doc"},
+          {"ext":"docx"},
+          {"ext":"html"},
+          {"ext":"png"},
+          {"ext":"xls"},
+          {"ext":"txt"},
+          {"ext":"mp3"},
+          {"ext":"mp4"},
+          {"ext":"wav"},
+          {"ext":"mpeg"},
+          {"ext":"rar"},
+          {"ext":"zip"},
+          {"ext":"arj"},
+          {"ext":"sql"},
+          {"ext":"xml"},
+          {"ext":"py"},
+          {"ext":"jar"},
+          {"ext":"mdb"},
+          {"ext":"log"},
+          {"ext":"csv"},
+          {"ext":"gif"},
+          {"ext":"ico"},
+          {"ext":"bmp"},
+          {"ext":"asp"},
+          {"ext":"css"},
+          {"ext":"php"},
+          {"ext":"chi"},
+          {"ext":"js"},
+          {"ext":"pps"},
+          {"ext":"ppt"},
+          {"ext":"mov"},
+          {"ext":"avi"},
+          {"ext":"3gp"},
+          {"ext":"pdf"}
+
+
+
+      ],
+
+
+     "name_p1":[
+           {"n_p1":"customers"},
+           {"n_p1":"visitors"},
+           {"n_p1":"players"},
+           {"n_p1":"students"},
+           {"n_p1":"audiences"},
+           {"n_p1":"speakers"},
+           {"n_p1":"participants"},
+           {"n_p1":"males"},
+           {"n_p1":"females"},
+           {"n_p1":"kids"},
+           {"n_p1":"animals"},
+           {"n_p1":"cars"},
+           {"n_p1":"flowers"},
+           {"n_p1":"phons"},
+           {"n_p1":"drivers"},
+
+
+     ],
+        "name_p2":[
+           {"n_p2":"name"},
+           {"n_p2":"details"},
+           {"n_p2":"photos"},
+           {"n_p2":"sketches"},
+           {"n_p2":"tables"},
+           {"n_p2":"index"},
+           {"n_p2":"summary"},
+           {"n_p2":"attributes"},
+           {"n_p2":"database"},
+           {"n_p2":"file"},
+           {"n_p2":"records"},
+           {"n_p2":"list"},
+           {"n_p2":"parameters"}
+
+
+
+           ],
+
+
+
+
+
+}
