@@ -2,13 +2,12 @@
 
 fdict={ 
         
-        
-	 "information":[	 	
-                 {"Date":"6/1/2020"},	 	
-                 {"Last Update":"6/1/2020"},	 	
-                 {"Creator":"Ali "},	 	
-                 {"Desc":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about files names and extensions main keys are: fext, name_p1, name_p2"},	
-                 {"LEGAL TERM":"This data-set created for Testing and Training purposes ONLY. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
+ "information":[	 	
+       {"Date":"6/1/2020"},	 	
+       {"Last Update":"6/1/2020"},	 	
+       {"Creator":"Ali "},	 	
+{"Desc":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about files names and extensions main keys are: fext, name_p1, name_p2"},	
+{"LEGAL TERM":"This data-set created for Testing and Training purposes ONLY. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
                  
                  ], 	
         
@@ -70,7 +69,7 @@ fdict={
            {"n_p1":"cars"},
            {"n_p1":"flowers"},
            {"n_p1":"phons"},
-           {"n_p1":"drivers"},
+           {"n_p1":"drivers"}
 
 
      ],
