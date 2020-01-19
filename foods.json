@@ -220,8 +220,57 @@
 {"name":"le café crème","time":"breakfast", "country":"FR"},
 {"name":"le café au lait","time":"breakfast", "country":"FR"},
 {"name":"le chocolat chaud","time":"breakfast", "country":"FR"},
-{"name":"le jus","time":"breakfast", "country":"FR"}
+{"name":"le jus","time":"breakfast", "country":"FR"},
 
+{"name":"Brunch Torte","time":"breakfast", "country":"Italia"},
+{"name":"Baked Eggs & Sausage","time":"breakfast", "country":"Italia"},
+	    {"name":"Cloud Eggs","time":"breakfast", "country":"Italia"},
+	    {"name":"Sausage Egg Bake","time":"breakfast", "country":"Italia"},
+	    {"name":"Veggie Sausage Strata","time":"breakfast", "country":"Italia"},
+	    {"name":"Calico Pepper Frittata","time":"breakfast", "country":"Italia"},
+	    {"name":"Mascarpone-Mushroom Frittata Stack","time":"breakfast", "country":"Italia"},
+	    {"name":"Frittata Florentine","time":"breakfast", "country":"Italia"},
+	    {"name":"Frittatas","time":"breakfast", "country":"Italia"},
+	    {"name":"Tiramisu Crepes","time":"breakfast", "country":"Italia"},
+	    {"name":"Brunch Bake","time":"breakfast", "country":"Italia"},
+	    {"name":"Apricot-Pancetta Strata","time":"breakfast", "country":"Italia"},
+	    {"name":"Pepper and Fresh Herb Frittata","time":"breakfast", "country":"Italia"},
+	    {"name":"Bread Bowls","time":"breakfast", "country":"Italia"},
+	    {"name":"Eggs Benedict with Pesto Hollandaise","time":"breakfast", "country":"Italia"},
+	    {"name":"Tomato Onion Quiche","time":"breakfast", "country":"Italia"},
+	     {"name":"Arugula & Mushroom Pizza","time":"breakfast", "country":"Italia"},
+	     
+	    {"name":"IDLI","time":"breakfast", "country":"India"},
+	     {"name":"MASALA DOSA","time":"breakfast", "country":"India"},
+	     {"name":"UPMA","time":"breakfast", "country":"India"},
+	    {"name":"RAVA UPMA","time":"breakfast", "country":"India"},
+	    {"name":"ALOO PARATHA","time":"breakfast", "country":"India"},
+	    {"name":"RAVA IDLI","time":"breakfast", "country":"India"},
+	    {"name":"ONION RAVA DOSA","time":"breakfast", "country":"India"},
+	    {"name":"ANDHRA STYLE IDLI","time":"breakfast", "country":"India"},
+	    {"name":"RAVA DOSA","time":"breakfast", "country":"India"},
+	    {"name":"MEDU VADA","time":"breakfast", "country":"India"},
+	    {"name":"OATS DOSA","time":"breakfast", "country":"India"},
+	    {"name":"PESARATTU","time":"breakfast", "country":"India"},
+	    {"name":"NEER DOSA","time":"breakfast", "country":"India"},
+	    {"name":"POHA","time":"breakfast", "country":"India"},
+	    {"name":"POTATO POHA","time":"breakfast", "country":"India"},
+	    {"name":"METHI PARATHA","time":"breakfast", "country":"India"},
+	    {"name":" ALOO PURI ","time":"breakfast", "country":"India"},
+	    {"name":"PUDINA PARATHA","time":"breakfast", "country":"India"},
+	    {"name":"SEMIYA UPMA","time":"breakfast", "country":"India"},
+	    {"name":"POORI BHAJI","time":"breakfast", "country":"India"},
+	    {"name":"IDIYAPPAM RECIPE","time":"breakfast", "country":"India"},
+	    {"name":"JINI DOSA","time":"breakfast", "country":"India"},
+	    {"name":"VEGETABLE DALIA","time":"breakfast", "country":"India"},
+	    {"name":"Gujrati Thepla","time":"breakfast", "country":"India"},
+	    {"name":"Sprouts Salad","time":"breakfast", "country":"India"},
+	    {"name":"Paneer Bhurji","time":"breakfast", "country":"India"},
+	    {"name":"Multigrain Paranthas","time":"breakfast", "country":"India"},
+	    {"name":"Besan Cheela","time":"breakfast", "country":"India"}
+	    
+	    
+	    
 
 ]
     
