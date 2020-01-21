@@ -1,0 +1,55 @@
+
+
+{
+  "information":
+    [
+      {"Date":"21/1/2020"},
+      {"Creatoe":"Ali"},
+      {"Last_update":"21/1/2020"},
+      {"Desc":"This Data-set contain cars Name, Colors and Plate number"},
+      {"Legal":"This data-set created for testing and training purposes only. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
+       
+    ],
+    "cars":
+    [
+     {"name":"car1 name","plate no":"222"},
+     {"name":"car1 name","plate no":"222"},
+     {"name":"car1 name","plate no":"222"},
+     {"name":"car1 name","plate no":"222"}
+     
+    ],
+    "colors":
+    [
+     {"color":"Copperhead Pearl"},
+     {"color":"Western Brown"},
+     {"color":"True Blue"},
+     {"color":"Black"},
+     {"color":"Prairie Pearl"},
+     {"color":"Silver"},
+     {"color":"Estoril Blue"},
+     {"color":"Green Metallic"},
+     {"color":"Blue Pearl"},
+     {"color":"Copper Red"},
+     {"color":"White Pearl"},
+     {"color":"White"},
+     {"color":"Gray"},
+     {"color":"Yulong White"},
+     {"color":"Corris Gray"},
+     {"color":"Byron Blue"},
+     {"color":"Bronze"},
+     {"color":"red"},
+     {"color":"red"},
+     {"color":"red"},
+     {"color":"red"},
+     {"color":"red"},
+     {"color":"red"},
+     {"color":"red"},
+     {"color":"red"}
+     
+     
+     
+    ]
+
+
+
+}
