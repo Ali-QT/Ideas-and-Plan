@@ -5,17 +5,54 @@
     [
       {"Date":"21/1/2020"},
       {"Creatoe":"Ali"},
-      {"Last_update":"21/1/2020"},
+      {"Last_update":"23/1/2020"},
       {"Desc":"This Data-set contain cars Name, Colors and Plate number"},
       {"Legal":"This data-set created for testing and training purposes only. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
        
     ],
     "cars":
     [
-     {"name":"car1 name","plate no":"222"},
-     {"name":"car1 name","plate no":"222"},
-     {"name":"car1 name","plate no":"222"},
-     {"name":"car1 name","plate no":"222"}
+       {"name":"alfa-romeo"},
+      {"name":"Aston Martin"},
+      {"name":"audi"},
+      {"name":"bentley"},
+      {"name":"bmw"},
+      {"name":"cadillac"},
+      {"name":"chevrolet"},
+      {"name":"chrysler"},
+      {"name":"citroen"},
+      {"name":"dodge"},
+      {"name":"Ferrari"},
+      {"name":"fiat"},
+      {"name":"ford"},
+      {"name":"GMC"},
+      {"name":"honda"},
+      {"name":"hummer"},
+      {"name":"hyundai"},
+      {"name":"infiniti"},
+      {"name":"isuzu"},
+      {"name":"jaguar"},
+      {"name":"jeep"},
+      {"name":"kia"},
+      {"name":"lamborghini"},
+      {"name":"Land Rover"},
+      {"name":"lexus"},
+      {"name":"lincoln"},
+      {"name":"mazda"},
+      {"name":"mercedes"},
+      {"name":"mercury"},
+      {"name":"mitsubishi"},
+      {"name":"nissan"},
+      {"name":"opel"},
+      {"name":"pontiac"},
+      {"name":"porsche"},
+      {"name":"saab"},
+      {"name":"subaru"},
+      {"name":"suzuki"},
+      {"name":"toyota"},
+      {"name":"volkswagen"},
+      {"name":"Volvo"}
+
      
     ],
     "colors":
@@ -37,13 +74,7 @@
      {"color":"Corris Gray"},
      {"color":"Byron Blue"},
      {"color":"Bronze"},
-     {"color":"red"},
-     {"color":"red"},
-     {"color":"red"},
-     {"color":"red"},
-     {"color":"red"},
-     {"color":"red"},
-     {"color":"red"},
+ 
      {"color":"red"}
      
      
