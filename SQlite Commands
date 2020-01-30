@@ -1,0 +1,22 @@
+
+SQlite Commands:
+
+INTRODUCTION: SQlite is a lite version of DataBase and can be useed with PYTHON Apps that need DataBase connections, all the commands
+              here used on Python.
+
+COMMANDS:
+
+1. CREATE A DATABASE CONNECTION:
+
+2. CREATE TABLES:
+
+3. INSERT A RECORD:
+
+4. DELETE A RECORD:
+
+5. DROP TABLE:
+
+6. SHOW RECORDS ON SCREEN:
+
+7. 
+
