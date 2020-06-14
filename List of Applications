@@ -1,8 +1,9 @@
 ## List of My Applications undert status of: Pending, In Progress, Finished
 
-Last Up-date: 22.12.2019
+Last Up-date: 14.06.2020
 
-
+Library Managment System.       In Progress 
+Payroll Managment System.       To be planned
 Ali_express_orders_app.py       Pending
 Armstrong_in_range.py           Finished        Published
 Combine_fitbit_data_files.py    Finished        Private
@@ -12,7 +13,7 @@ Fake_dataset_colors.py          Finished        Published
 Fake_dataset_brands.py          Pending
 Fake_dataset_creatuers.py       Finished        Published
 Fake_dataset_date.py            Finished        Published
-Fake_dataset_food.py            In progress
+Fake_dataset_food.py            Finished        Published
 Fake_dataset_get_animals.py     Finished        Published
 Fake_dataset_ID.py              Finished        Published
 Fake_dataset_time.py            Finished        Published
