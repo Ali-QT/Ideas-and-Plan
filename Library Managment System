@@ -36,19 +36,28 @@
         So we will store the following data:
              
            Books  
-                Book Name, Book Auther, date of publitio, Edition Number, book clasification number,
-                 
+                Book Name, Book Auther, date of publitio, Edition Number, book clasification number, 
+                [The book classification will be as a new entity ]
+                   
                   
            Auther: 
                 Auther name, Auther Nationalety, email, SMA (social media account). 
-                From the Aouther information we can see that we need to define new en 
-                we  
+                [From the Aouther information we can see that we need to define new entitie
+                we will call it SMA.]
 
+           Classification:
+                Book Id, Class name
 
             SMA: (social media account for the Aouthers) 
                 SMA name, SMA link 
                 
 
-         To Manage our System we will write Four main functions for each     
+         To Manage our System we will write Four main functions for each entity 
+          Add, Edit, Delete and search.
+
+          
+ 
+
+          
 
 
