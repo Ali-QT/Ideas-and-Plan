@@ -1,0 +1,18 @@
+    Project Name: Library Managment System.
+    By: Ali 
+    Date: 10.06.2020
+ 
+    Details
+  
+ 
+    Details: 
+        The project is to Plan, design and builed a Library Managment System (For Books), the main
+        Functions in the system are:
+          = Add New Book.
+          = Edit an exsit Book. 
+          = Delete a Book.
+          = Search  
+          
+     Defin Data we Need: 
+        First We need to define the Data we wannt to stoe, as we are talking about a Books Library System we 
+        can define 
