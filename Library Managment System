@@ -16,12 +16,12 @@
           
           
      Planning. 
-        In this step we need to set with the Buisness owner to identify the problem and plann the project, but since 
+        In this step we need to sit with the Buisness owner to identify the problem and plann the project, but since 
         we will work as FullStack (we will do every thing) and this is a training session, we will be the 
         Buisness owner of the project and will set the problem. 
      
      The Problem: 
-        In a very simple way, we have some books and we want a system to store the books in a way that we can retreave
+        In a very simple way, we have some books and we want a system to store the books information in a way that we can retreave
         it's basic information such as Title, Auther, Subject and other information about it, also we need to do some
         search and get basic statistics about our Library. 
         
