@@ -1,18 +1,52 @@
     Project Name: Library Managment System.
     By: Ali 
     Date: 10.06.2020
- 
-    Details
-  
- 
+    Version 01_14.6.2020 
+     
     Details: 
-        The project is to Plan, design and builed a Library Managment System (For Books), the main
-        Functions in the system are:
+        The project is to Plan, design and builed a simple Library Managment System (For Books), the main
+        Functions in the system are: 
+           (Functions in version 1) 
           = Add New Book.
           = Edit an exsit Book. 
           = Delete a Book.
-          = Search  
+          = Search.
           
-     Defin Data we Need: 
+          
+     Planning. 
+        In this step we need to set with the Buisness owner to identify the problem and plann the project, but since 
+        we will work as FullStack (we will do every thing) and this is a training session, we will be the 
+        Buisness owner of the project and will set the problem. 
+     
+     The Problem: 
+        In a very simple way, we have some books and we want a system to store the books in a way that we can retreave
+        it's basic information such as Title, Auther, Subject and other information about it, also we need to do some
+        search and get basic statistics about our Library. 
+        
+     Data Gatharing : 
         First We need to define the Data we wannt to stoe, as we are talking about a Books Library System we 
-        can define 
+        can predect this very easelly even by looking to a book that we have and write-ddowan the keies part of 
+        the book we want to store, 
+        In this project we have three main Entiteis: Books, Aouthers, Boroers. in this version of the 
+        project we will NOT cover the borowing functionality. 
+        
+        
+        So we will store the following data:
+             
+           Books  
+                Book Name, Book Auther, date of publitio, Edition Number, book clasification number,
+                 
+                  
+           Auther: 
+                Auther name, Auther Nationalety, email, SMA (social media account). 
+                From the Aouther information we can see that we need to define new en 
+                we  
+
+
+            SMA: (social media account for the Aouthers) 
+                SMA name, SMA link 
+                
+
+         To Manage our System we will write Four main functions for each     
+
+
