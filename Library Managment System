@@ -41,21 +41,28 @@
                    
                   
            Auther: 
-                Auther name, Auther Nationalety, email, SMA (social media account). 
+                Auther Name, Auther Nationalety, email, SMA (social media account). 
                 [From the Aouther information we can see that we need to define new entitie
                 we will call it SMA.]
 
-           Classification:
-                Book Id, Class name
+           Classification List:
+                Class Name [Here the user will Enter a list of Classifications that can select from them later 
+                when Entering the Books.] 
 
             SMA: (social media account for the Aouthers) 
-                SMA name, SMA link 
+                SMA Name, SMA Link 
                 
 
          To Manage our System we will write Four main functions for each entity 
-          Add, Edit, Delete and search.
+                Add, Edit, Delete and search.
 
           
+          Enhancment:
+                Here I am listing some ideas that we can add to our system later in Version02.
+                    1. Validations on some user inputs. 
+                    2. Adding Book from multi Libraries. 
+                    3. 
+                    4.
  
 
           
