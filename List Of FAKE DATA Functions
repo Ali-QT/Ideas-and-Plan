@@ -2,11 +2,11 @@ List of FAKE DATA GENERATOR. Last update in 18/12/2019.
 Writing Function to generate FAKE DATA.
 Functions are:
   - FAKE TIME. ......... DONE. 
-  - FATE DATE. .........           
+  - FATE DATE. ......... DONE          
   - FAKE ID............. DONE.
   - FAKE COLOR CODE..... DONE
   - FAKE BRAND NAME. ... Planned
-  - FAKE FOOD. ......... Planned
+  - FAKE FOOD. ......... DONE
   - FAKE COUNTRY LIST... Delayed    (Trying to solve: calling data-set.json file)
 
 
