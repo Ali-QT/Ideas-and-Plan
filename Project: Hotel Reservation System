@@ -1,0 +1,37 @@
+
+Project Name : Hotel Reservation System 
+
+By: Ali 
+
+Date: 19.6.2020 
+
+
+DRAFT V.1 on 19.6.2020 
+THIS DOCUMENT NEED TO BE REVIEWED AND CLEARED.
+
+
+The Concept:
+   To give the Hotel Helpdesk person the ability to check 
+and search for a room and reserve one to a client base 
+on the room Category and price range. 
+
+
+
+Brainstorming:
+
+   Functions 
+         @ book a room
+         @ free a room
+         @ search for a room  
+         @ Auto pricing rooms
+@ we can set a discount to be apply to all rooms in 
+X Category between two dates of Reservation 
+
+@ rooms Category.. standard, Suite, number of bedroom. 
+ Number of bathroom 
+   
+      
+
+
+
+
