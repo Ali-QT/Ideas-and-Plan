@@ -21,6 +21,9 @@ DataBase using SQlight.
            Date, share_name, amount, price, total cose
        3. Sell_transaction_table[sell] 
            Date, share_name, amount, price, profit 
+       4. Budget_table 
+           Date, amount, notes  
+            (Notes: New budget increases, money withdrawal)
        
 
     System Functions: 
