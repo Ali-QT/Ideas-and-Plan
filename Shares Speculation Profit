@@ -1,0 +1,37 @@
+
+Project Name: Shares Speculation Profit
+By:  Ali
+Date: 26.6.2020 
+
+
+The Project Idea: 
+
+   A person who works on shares speculation want system to keep
+the record for his transactions and calculate the Profits 
+and return of investment ROI ratio. 
+
+Project Scope
+   We will use Python and will store the transactions in
+DataBase using SQlight. 
+
+   
+   System Tabels: 
+       1. Shares_table. [Name] 
+       2. Buy_Transactions_table.[buy]
+           Date, share_name, amount, price, total cose
+       3. Sell_transaction_table[sell] 
+           Date, share_name, amount, price, profit 
+       
+
+    System Functions: 
+        For each table, we will have three main functions 
+        Add, Edit and Delete.
+        
+        Also we will write a Menu to access each Function. 
+
+
+        
+
+
+
+       
