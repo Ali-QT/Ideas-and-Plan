@@ -33,7 +33,8 @@ DataBase using SQlight3.
         Also we will write a Menu to access each Function. 
 
 
-     The idea is, each time the use buy or sell  shares, he 
+     The idea is,FIRST the user will create a budget profile, (date,budget amount)
+Then each time the use buy or sell  shares, he 
 will add a record saving the date, share name, shares amount 
 Transactions type, share price. If the Transaction is Buy then
 We will debit the total from the budget we have in the system
