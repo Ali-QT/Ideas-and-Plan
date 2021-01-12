@@ -10,5 +10,13 @@ Using: Python and sqlite3
 
 Brainstorming:
 
-Clinics system goal is to save and manage the patient 
-File 
+Clinics system goal is to save and manage the patient File.
+
+The application will create a folder foe each clint/patient and will save all hes/her documents
+in the foder., documents such are :
+personal information [name,contacts,[mobile,email]]
+photos: [x-ray,document]
+text: meducal report, prcpection . apointments. 
+
+
+DataBase: 
