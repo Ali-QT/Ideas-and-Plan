@@ -14,9 +14,36 @@ Clinics system goal is to save and manage the patient File.
 
 The application will create a folder foe each clint/patient and will save all hes/her documents
 in the foder., documents such are :
-personal information [name,contacts,[mobile,email]]
+personal information [name, DOB, contacts,[mobile,email]]
 photos: [x-ray,document]
-text: meducal report, prcpection . apointments. 
+text: medical report, prcpection . apointments. 
+
+Assumptions:
+  1. One mobile number and one email for each patient.
+  
+
+Specialty List:
+      Allergists ,  Infectious. Endocrinology, Cardiology, Dermatology, 
+      Gastroenterology,  
 
 
-DataBase: 
+
+DataBase: Tables we may need:
+Table: p_information: pinfo_ID, Name, DOB, mobile, email, medinfo_ID[FK], app_id[FK],   
+
+Table: medical_info: medinfo_ID, appointments
+Table: appointments: app_ID, date, time, resin, Dr_name
+Table: Doctors: dID, Name, profe, email, mobile, specialty. 
+Table: specialty: spe_ID, s_name, description.
+
+
+
+
+
+
+
+
+
+
+
+
