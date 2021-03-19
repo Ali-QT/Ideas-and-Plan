@@ -16,11 +16,11 @@
         [ 
           {
             "name":"Urologist",
-            "description":"clinic desc"
+            "description":"specialize in the genitourinary tract—the kidneys, urinary bladder, adrenal glands, urethra and male reproductive organs—and male fertility."
            }, 
            {
             "name":"Andrology",
-            "description":"clinic desc"
+            "description":"medical specialty that deals with male health, particularly relating to the problems of the male reproductive system and urological problems that are unique to men."
            },{
             "name":"Dermatologist",
             "description":"specializes in conditions involving the skin, hair, and nails."
@@ -34,8 +34,8 @@
             "name":"Cardiology",
             "description":"experts on the heart and blood vessels. You might see them for heart failure, a heart attack, high blood pressure, or an irregular heartbeat."
            },{
-            "name":"Dental",
-            "description":"clinic desc"
+            "name":"Dentistry",
+            "description":"Also known as dental medicine and oral medicine, to diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity, commonly in the dentition but also the oral mucosa, and of adjacent and related structures and tissues"
            },
            {
             "name":"clinic name",
@@ -43,19 +43,19 @@
            },
            {
             "name":"Pediatrics",
-            "description":"clinic desc"
+            "description":"involves the medical care of infants, children, and adolescents. The American Academy of Pediatrics recommends people be under pediatric care through the age of 21."
            },{
-            "name":"Dietian",
+            "name":"",
             "description":"clinic desc"
            },{
             "name":"Neurology",
-            "description":"clinic desc"
+            "description":"Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue, such as muscle"
            },{
             "name":"Radiology",
-            "description":"clinic desc"
+            "description":"Radiology is the medical discipline that uses medical imaging to diagnose and treat diseases within the bodies of humans"
            },{
             "name":"Dermatologists",
-            "description":"clinic desc"
+            "description":"Dermatologist is a specialist diseases related to skin, hair, nails, and some cosmetic problems. "
            },{
             "name":"Hematologists",
             "description":"specialists in diseases of the blood, spleen, and lymph glands, like sickle cell disease, anemia, hemophilia, and leukemia."
@@ -70,7 +70,7 @@
             "description":"treat kidney diseases as well as high blood pressure and fluid and mineral imbalances linked to kidney disease."
            },
             {
-            "name":"last clinic",
+            "name":"",
             "description":"last clinic desc"
            }
             
