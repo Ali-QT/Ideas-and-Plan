@@ -1,0 +1,79 @@
+ 
+
+{ 
+  "information": 
+        [ 
+          {"Date":"18/03/2021"}, 
+          {"Creatoe":"Ali Radwani"}, 
+          {"Last_update":"18/03/2021"}, 
+          {"Desc":"The Data set Holding Clinics Name and Description, The Data Collected From The Net."}, 
+          {"Legal":"This Data-set Created for Testing and Training Purposes Only. 
+          Anyone Can use it Under His/Her Responsibility Without any Legal 
+          Obligation for The Owner/Creator for any Missing or Wrong Data."} 
+          
+        ], 
+  "clinics":
+        [ 
+          {
+            "name":"Urologist",
+            "description":"clinic desc"
+           }, 
+           {
+            "name":"Andrology",
+            "description":"clinic desc"
+           },{
+            "name":"Dermatologist",
+            "description":"clinic desc"
+           },{
+            "name":"Orthopedic Surgeon",
+            "description":"clinic desc"
+           },{
+            "name":"Endodonist",
+            "description":"clinic desc"
+           },{
+            "name":"Cardiology",
+            "description":"clinic desc"
+           },{
+            "name":"Dental",
+            "description":"clinic desc"
+           },
+           {
+            "name":"Dermatology",
+            "description":"clinic desc"
+           },
+           {
+            "name":"Pediatrics",
+            "description":"clinic desc"
+           },{
+            "name":"Dietian",
+            "description":"clinic desc"
+           },{
+            "name":"Neurology",
+            "description":"clinic desc"
+           },{
+            "name":"Radiology",
+            "description":"clinic desc"
+           },{
+            "name":"",
+            "description":"clinic desc"
+           },{
+            "name":"",
+            "description":"clinic desc"
+           },{
+            "name":"",
+            "description":"clinic desc"
+           },{
+            "name":"",
+            "description":"clinic desc"
+           },{
+            "name":"",
+            "description":"clinic desc"
+           },
+            {
+            "name":"last clinic",
+            "description":"last clinic desc"
+           }
+            
+         ] 
+}
+
