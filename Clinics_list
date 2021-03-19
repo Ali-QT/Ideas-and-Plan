@@ -23,22 +23,22 @@
             "description":"clinic desc"
            },{
             "name":"Dermatologist",
-            "description":"clinic desc"
+            "description":"specializes in conditions involving the skin, hair, and nails."
            },{
             "name":"Orthopedic Surgeon",
-            "description":"clinic desc"
+            "description":"specialize in the musculoskeletal system - the bones, joints, ligaments, tendons, and muscles that are so essential to movement and everyday life"
            },{
             "name":"Endodonist",
-            "description":"clinic desc"
+            "description":"dental specialists in diagnosing and treating tooth pain and performing root canal treatment"
            },{
             "name":"Cardiology",
-            "description":"clinic desc"
+            "description":"experts on the heart and blood vessels. You might see them for heart failure, a heart attack, high blood pressure, or an irregular heartbeat."
            },{
             "name":"Dental",
             "description":"clinic desc"
            },
            {
-            "name":"Dermatology",
+            "name":"clinic name",
             "description":"clinic desc"
            },
            {
@@ -54,20 +54,20 @@
             "name":"Radiology",
             "description":"clinic desc"
            },{
-            "name":"",
+            "name":"Dermatologists",
             "description":"clinic desc"
            },{
-            "name":"",
-            "description":"clinic desc"
+            "name":"Hematologists",
+            "description":"specialists in diseases of the blood, spleen, and lymph glands, like sickle cell disease, anemia, hemophilia, and leukemia."
            },{
-            "name":"",
-            "description":"clinic desc"
+            "name":"Gastroenterologists",
+            "description":"specialists in digestive organs, including the stomach, bowels, pancreas, liver, and gallbladder."
            },{
-            "name":"",
-            "description":"clinic desc"
+            "name":"Neurologists",
+            "description":"specialists in the nervous system, which includes the brain, spinal cord, and nerves. They treat strokes, brain and spinal tumors, epilepsy, Parkinson's disease, and Alzheimer's disease."
            },{
-            "name":"",
-            "description":"clinic desc"
+            "name":"Nephrologists",
+            "description":"treat kidney diseases as well as high blood pressure and fluid and mineral imbalances linked to kidney disease."
            },
             {
             "name":"last clinic",
