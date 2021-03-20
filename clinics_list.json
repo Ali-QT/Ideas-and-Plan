@@ -1,17 +1,18 @@
 
 { "information":[	 
-{"Date":"15/12/2019"},	 
-{"Last Update":"20/12/2019"},	 
-{"Creator":"Ali "},	 
-{"Desc":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about Animals classified under: mammal | insect | birds | reptiles."},
+{"Date":"18/03/2021"},	 
+{"Last Update":"20/03/2021"},	 
+{"Creator":"Ali Radwani"},	 
+{"Desc":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about Clinics Name and Description, The Data Collected From The Net."},
 {"LEGAL TERM":"This data-set created for testing and training purposes only. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
-], 	 
-"animals":[ 
-{"name":"Aardvark", "type":"mammal"},
-{"name":"African Elephant", "type":"mammal"},
-{"name":"African Wild Dog", "type":"mammal"}, 
-{"name":"Bottlenose Dolphin", "type":"mammal"},
-{"name":"Brown Bear", "type":"mammal"}
+], 	
+ 
+"clinics":[ 
+{"name":"", "desc":""},
+{"name":"", "desc":""},
+{"name":"", "desc":""}, 
+{"name":"", "desc":""},
+{"name":"", "desc":""}
 ]
 }
 
