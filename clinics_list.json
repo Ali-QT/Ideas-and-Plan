@@ -1,18 +1,37 @@
 
-{ "information":[	 
+{ "Information":[	 
 {"Date":"18/03/2021"},	 
 {"Last Update":"20/03/2021"},	 
 {"Creator":"Ali Radwani"},	 
-{"Desc":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about Clinics Name and Description, The Data Collected From The Net."},
+{"Description":"This is a json file created to be used with several FAKE DATA GENERATE FUNCTIONS the file contain information about Clinics Name and Description, The Data Collected From The Net."},
 {"LEGAL TERM":"This data-set created for testing and training purposes only. Anyone can use it under his/her responsibility without any legal obligation for the owner/creator for any missing or wrong data."}
 ], 	
  
-"clinics":[ 
+"Clinics":[ 
+ {
+            "name":"Urologist",
+            "description":"specialize in the genitourinary tract—the kidneys, urinary bladder, adrenal glands, urethra and male reproductive organs—and male fertility."
+           },
+           {
+            "name":"Andrology",
+            "description":"medical specialty that deals with male health, particularly relating to the problems of the male reproductive system and urological problems that are unique to men."
+           },
+           {
+            "name":"Dermatologist",
+            "description":"specializes in conditions involving the skin, hair, and nails."
+           },
+           {
+            "name":"Orthopedic Surgeon",
+            "description":"specialize in the musculoskeletal system - the bones, joints, ligaments, tendons, and muscles that are so essential to movement and everyday life"
+           },
 {"name":"", "desc":""},
 {"name":"", "desc":""},
 {"name":"", "desc":""}, 
 {"name":"", "desc":""},
 {"name":"", "desc":""}
+
+
+
 ]
 }
 
