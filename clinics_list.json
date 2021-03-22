@@ -67,9 +67,18 @@
             "description":"known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system and the male reproductive organs."
            },
  {
-            "name":"..",
-            "description":"....."
+            "name":"Oncologist",
+            "description":"Oncologist is specializes in diagnosing and treating people who have cancer."
  },
+ {
+            "name":"Ophthalmologist",
+            "description":"Ophthalmologist is a medical doctor who can perform medical and surgical interventions for eye conditions."},
+ {
+            "name":"Orthopedics",
+            "description":"Orthopedics is the medical field that focuses on diseases and conditions that affect your musculoskeletal system. This includes bones, muscles, ligaments and tendons, joints and nerves"},
+ {
+            "name":"..",
+            "description":"....."},
  {
             "name":"..",
             "description":"....."},
