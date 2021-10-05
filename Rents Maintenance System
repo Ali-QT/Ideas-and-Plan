@@ -1,0 +1,44 @@
+
+Project: Property Mainenance System
+By:  Ali Radwani
+Start: 5.10.2021
+
+
+  Property Maintenance Service .... (Can be a Stand-alown System) .. in 5/10/2021 this Function transafe to be an Application
+              
+              - Submit Maintenance Request (by Tenant) : 
+                                          (For What?: [Bathroom, kitchen, WaterSystem[Colling, Heating], Windoews and Doors, Paints, 
+                                          TV & Aoudio,Insects and Bugs, Roof, Others  ]) (If other please write.. )
+                                          - Request Date,time
+                                          - Property address.
+                                          - Maintenance Suggested Date (by Tenant) 
+              - Cost Evaluation. [Tenant Approval Requear]
+              - IF Approved. Do Paiment,[Cash, Chueq] Set the Date and Time for the Maintenance.
+              - After Maintenance Finsh Close the case. 
+              
+              
+              
+              - Tables: 
+              - Properties: ID, Address[Zone, Street, Building],Type[Villa, Appartment], Bedroom(numbers), Bathroom(numbers), Kitchen(numbers), 
+                            Car_garage(numbers), Intercome, TV_Cable, Internet, 
+                            
+              - Maintenance: property ID, maintenance for, 
+              - Payments: Total Cost, Date, Payed_by, Payment Method[cash,cheuq], Property ID.
+              - 
+              
+              
+              - Functions:
+                    - Main Menu.
+                    - Add, Edit, Delete [For each records in the tables.] 
+                    - Show Data/Records.
+                    - 
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
